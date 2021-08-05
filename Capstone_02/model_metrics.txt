@@ -1,0 +1,15 @@
+Utilized Features:
+Target: Obese - Binary (BMI >= 30)
+
+Other:
+Gender, Age_yr,#_diff_foods, tot_calories, total_protein, 
+total_carb, total_sugar, total_fiber, total_fat, avg_visc_fat,
+waist, weight, ave_BP, adult?
+
+Utilized Model: Support Vector Machine
+Metrics: 
+precision - 93.8%, 
+recall - 96.8%, 
+f1 - 95.3%,
+score - 92.9%,
+5 fold mean CV score - 97.9% 
