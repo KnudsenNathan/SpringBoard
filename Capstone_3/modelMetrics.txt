@@ -1,0 +1,13 @@
+Utilized Features:
+Target: Popularity
+
+Other:
+'danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness',
+'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo',
+'time_signature'
+
+Utilized Model: Random Forest Regressor
+Metrics: 
+Score - 86.2%
+MAE - 7.24
+r^2 - -0.32
